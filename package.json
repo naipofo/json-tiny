@@ -1,5 +1,5 @@
 {
-  "name": "js-tiny",
+  "name": "json-tiny",
   "version": "1.0.0",
   "description": "minify your json even more",
   "main": "src/index.js",
