@@ -1,0 +1,27 @@
+{
+  "name": "js-tiny",
+  "version": "1.0.0",
+  "description": "minify your json even more",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naipofo/json-tiny.git"
+  },
+  "keywords": [
+    "json",
+    "minify",
+    "compress"
+  ],
+  "author": "naipofo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naipofo/json-tiny/issues"
+  },
+  "homepage": "https://github.com/naipofo/json-tiny#readme",
+  "devDependencies": {
+    "fast-deep-equal": "^3.1.3"
+  }
+}
